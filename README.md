@@ -9,9 +9,9 @@ The server featured:
 * View templating language plugins
 
 ## Dependencies
-Lightweight HTTP server library:
-  https://github.com/mochi/mochiweb.git
-PostgreSQL Client Library:
-  https://github.com/epgsql/epgsql
-UUID generator library:
-  https://github.com/okeuday/uuid
+Lightweight HTTP server library:<br />
+  https://github.com/mochi/mochiweb.git<br />
+PostgreSQL Client Library:<br />
+  https://github.com/epgsql/epgsql<br />
+UUID generator library:<br />
+  https://github.com/okeuday/uuid<br />
