@@ -7,3 +7,11 @@ The server featured:
 * Erlang/OTP Server architecture
 * Hot-swappable View and Controller modules
 * View templating language plugins
+
+## Dependencies
+Lightweight HTTP server library:
+  https://github.com/mochi/mochiweb.git
+PostgreSQL Client Library:
+  https://github.com/epgsql/epgsql
+UUID generator library:
+  https://github.com/okeuday/uuid
