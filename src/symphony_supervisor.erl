@@ -1,0 +1,2 @@
+-module(symphony_supervisor).
+-author('Tyra Bjurman <tyra.bjurman@gmail.com>').
